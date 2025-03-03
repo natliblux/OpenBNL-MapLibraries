@@ -8,4 +8,4 @@ The notebook retrieves data about all the libraries in Luxembourg using the BnL'
 * Folium for mapping the gps coordinates
 * Nominatum for retrieving gps coordinates from an address
 ## Usage
-Open the notebook using Jupyter Labs
+The notebook can be run online using [Binder](https://mybinder.org/).
