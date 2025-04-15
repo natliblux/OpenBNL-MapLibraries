@@ -8,7 +8,7 @@ The notebook retrieves data about all the libraries in Luxembourg using the BnL'
 * Folium for mapping the gps coordinates
 * Nominatum for retrieving gps coordinates from an address
 ## Usage
-The notebook can be run online using [Binder/JupyterLab](https://mybinder.org/v2/gh/natliblux/OpenBNL-MapLibraries/47db0253cc809140c7c864a8e56394958942e4cb?urlpath=lab%2Ftree%2Fsrc%2FOpenBnL-MapLibraryLocations.ipynb).
+The notebook can be run online using [Binder/JupyterLab](https://mybinder.org/v2/gh/natliblux/OpenBNL-MapLibraries/6a97f04b06d3f97f443371d166864a4bcc6de87c?urlpath=lab%2Ftree%2Fsrc%2FOpenBnL-MapLibraryLocations.ipynb).
 ## Result
 Below is an sample image of the results produced by this project.
 ![Mapping Luxembourg Librirares - Result](https://github.com/user-attachments/assets/534cc397-9ee2-4cad-a792-affeca32d108)
